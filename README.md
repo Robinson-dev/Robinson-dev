@@ -33,12 +33,12 @@ Me encanta crear soluciones digitales que faciliten la vida diaria y aporten val
 
 ---
 
-## 📫 Conecta conmigo, hablame al Linkedin o al correo, respondo enseguida 
+## 📫 Conecta conmigo, háblame al Linkedin o al correo, respondo enseguida 
 - 💼 [LinkedIn](www.linkedin.com/in/robinson-arriagada-14188b44)  
 - 🐙 [GitHub](https://github.com/Robinson-dev)  
 - ✉️ rob.arriagada@duocuc.cl  
 
 ---
 
-⭐ Siéntete libre de seguirme o colaborar en mis proyectos.  
-*"El código es el camino, y yo apenas estoy empezando a recorrerlo."* 🚀
+⭐ Siéntete libre de seguirme o darme un consejo en mis proyectos.  
+*"Pequeñas pantallas, grandes ideas. Así piensa un desarrollador móvil."* 🚀
