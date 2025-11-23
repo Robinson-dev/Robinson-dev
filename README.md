@@ -1,7 +1,7 @@
 # 👋 Hola, soy Robinson
 
 🚀 **Programador en formación y futuro Ingeniero de Software.**
-Me enfoco en el desarrollo móvil con Kotlin y Flutter, creando aplicaciones que no solo funcionen bien, sino que realmente mejoren la experiencia de las personas en su día a día.
+Me enfoco en el desarrollo móvil con Kotlin y Java en el Backend, creando aplicaciones que no solo funcionen bien, sino que realmente mejoren la experiencia de las personas en su día a día.
    Disfruto aprender nuevas tecnologías, resolver problemas y transformar ideas en proyectos útiles y bien diseñados.
 Mi meta es seguir creciendo profesionalmente, aportando soluciones que unan la tecnología con la vida real, y construyendo un camino sólido en el mundo del desarrollo de software.
 
